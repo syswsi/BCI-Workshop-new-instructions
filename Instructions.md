@@ -1,4 +1,4 @@
-# BCI workshop - NeuroTechTO
+# BCI workshop - NeuroTechMTL
 
 This document will lead users through NeuroTechX's introductory BCI Workshop.
 
